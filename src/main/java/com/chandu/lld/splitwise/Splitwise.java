@@ -1,4 +1,5 @@
-package com.chandu.lld;
+//https://workat.tech/machine-coding/editorial/how-to-design-splitwise-machine-coding-ayvnfo1tfst6
+package com.chandu.lld.splitwise;
 
 import com.chandu.lld.splitwise.models.*;
 import com.chandu.lld.splitwise.service.ExpenseManager;
